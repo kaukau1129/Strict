@@ -1,0 +1,53 @@
+p{color: pink;}
+h1.one{color: red;
+  text-align: center
+  }
+
+*{font-family: 'Lato', sans-serif;}
+body {margin: 0;}
+
+.navigation{background-color: #f6f9f9;
+	         padding: 25px 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.animated{webkit}
+
+@media(max-width: 900px) {
+	h1.one{color: blue;
+	        text-align: right;
+	        border:1px black solid;}
+
+
